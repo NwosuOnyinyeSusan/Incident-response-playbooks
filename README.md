@@ -42,9 +42,9 @@ These playbooks were created to strengthen my understanding of:
 
 📁 Files
 
-- Phishing_Attack_Incident_Response_Playbook.pdf
-- Ransomware_Incident_Response_Playbook.pdf
-- DDoS_Attack_Incident_Response_Playbook.pdf
+- [Phishing Attack Incident Response Playbook](Phishing-Attack-Incident-Response-Playbook.pdf)
+- [Ransomware Attack Incident Response Playbook](Ransomware-Incident-Response-Playbook.pdf)
+- [DDoS Attack Incident Response Playbook](DDoS-Attack-Incident-Response-Playbook.pdf)
 
 ## 👤 Author
 
