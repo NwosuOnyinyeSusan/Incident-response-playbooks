@@ -46,10 +46,18 @@ These playbooks were created to strengthen my understanding of:
 - Ransomware_Incident_Response_Playbook.pdf
 - DDoS_Attack_Incident_Response_Playbook.pdf
 
+## 👤 Author
 
-💙 Contact
+Onyinye Nwosu  
+*Cybersecurity Student | TechCrush*  
+July 2025
 
-For questions, collaboration, or feedback, connect with me on [LinkedIn]: https://www.linkedin.com/in/onyinye-nwosu-techcrushscholar-4a23931ab/
+
+### 🔗 Connect with Me
+
+- [LinkedIn](#) *(https://www.linkedin.com/in/onyinye-nwosu-techcrushscholar-4a23931ab/)*
+- [Twitter/X](#) *(https://x.com/NwosuOnyinyeSP)*
+
 
 ---
 > 📂 Note: This project was completed as part of the TechCrush Cybersecurity program to build practical hands-on skills in network security and system hardening.
