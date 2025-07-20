@@ -1,6 +1,6 @@
-# Techcrush Project 1: Incident-response-playbooks
+# Incident-response-playbooks
 Structured incident response playbooks for phishing, DDoS and ransomware attacks
-# Incident Response Playbooks
+# Techcrush Project 1: Incident Response Playbooks
 
 This repository contains structured Incident Response Playbooks I developed as part of my cybersecurity training projects.
 
