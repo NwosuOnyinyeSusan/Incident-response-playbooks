@@ -60,5 +60,14 @@ July 2025
 
 
 ---
-> 📂 Note: This project was completed as part of the TechCrush Cybersecurity program to build practical hands-on skills in network security and system hardening.
- #Cybersecurity #IncidentResponse #BlueTeam #SOCAnalyst #LearningInPublic
+
+
+> ## License & Attribution Notice
+
+This project was completed by Onyinye Nwosu as part of the TechCrush Cybersecurity Beginners Program 2025.
+
+All configurations, documentation, and screenshots were created independently by the author unless otherwise stated. This repository is intended for educational and showcase purposes only.
+
+Unauthorized reuse or redistribution of this project content without proper attribution is not permitted.
+
+© 2025 Onyinye Nwosu. All rights reserved.
